@@ -20,7 +20,7 @@ export default function SimpleBottomNavigation() {
     <Box
       sx={{ 
         width: '100%', 
-        maxWidth: 300,  // Set this value to control the narrowness
+        maxWidth: 1,  // Set this value to control the narrowness
         margin: '0 auto' // Center it horizontally
       }}
     >
